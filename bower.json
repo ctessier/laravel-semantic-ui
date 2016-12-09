@@ -1,0 +1,14 @@
+{
+  "name": "laravel-semantic-ui",
+  "description": "A basic Laravel application implementing Semantic UI",
+  "main": "",
+  "authors": [
+    "Clément Tessier"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/ctessier/laravel-semantic-ui",
+  "private": true,
+  "dependencies": {
+    "semantic": "semantic-ui#^2.2.6"
+  }
+}
