@@ -12,3 +12,8 @@ bootstrap/cache/
 .env.php
 .env
 
+# Built assets
+public/assets/
+public/build/
+public/js/
+
