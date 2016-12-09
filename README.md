@@ -14,6 +14,7 @@ php artisan migrate
 yarn install
 bower install
 gulp [--production]
+gulp fonts
 ```
 
 ## Resources
