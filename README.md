@@ -7,11 +7,13 @@ A basic Laravel application implementing Semantic UI.
 git clone https://github.com/ctessier/laravel-semantic-ui
 cd laravel-semantic-ui
 composer install
-yarn install
-bower install
 cp .env.sample .env
 php artisan key:generate
 php artisan migrate
+
+yarn install
+bower install
+gulp [--production]
 ```
 
 ## Resources
