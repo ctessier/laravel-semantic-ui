@@ -1,4 +1,7 @@
 # Laravel / Semantic UI
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/ctessier/laravel-semantic-ui.svg)](https://greenkeeper.io/)
+
 A basic Laravel application implementing Semantic UI.
 
 ## Installation
